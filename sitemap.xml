@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gajdusek.net/categories/</loc>
+    <loc>https://www.gajdusek.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gajdusek.net/tags/</loc>
+    <loc>https://www.gajdusek.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://gajdusek.net/</loc>
+    <loc>https://www.gajdusek.net/</loc>
     <priority>0</priority>
   </url>
   
